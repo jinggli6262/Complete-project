@@ -260,7 +260,7 @@ and (min-width : 900px)
         font-size: 1.25vw;
     }
     div{
-        margin-top: 65px;
+        margin-top: 80px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     }
