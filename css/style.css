@@ -3,7 +3,7 @@ body {
 }
 h1{
     font-size: 500%;
-    font-family: "Sofia", sans-serif;
+    font-family: 'Sofia', Times, serif;
     text-align: center; 
     animation: 3s linear 1s slidein;
     
