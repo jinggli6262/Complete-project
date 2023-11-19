@@ -184,7 +184,7 @@ button {
     }
 }
 
-@media screen and (max-width: 992px)
+@media screen and (max-width: 800px)
 {
 body{
     background-image: linear-gradient(to bottom right, rgb(117, 154, 223), rgb(200, 248, 255));;
