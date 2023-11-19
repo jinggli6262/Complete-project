@@ -5,7 +5,7 @@ h1{
     font-size: 500%;
     font-family: 'Times New Roman', Times, serif;
     text-align: center; 
-    animation: 3s linear 1s slidein;
+    animation: 10s linear 1s slidein;
     
 }
 @keyframes slidein {
@@ -110,7 +110,7 @@ button {
 
 
 
-@media only screen and (max-width:600px){
+@media screen and (max-width: 600px){
     body {
         background-color: lightcoral;
     }
@@ -184,7 +184,7 @@ button {
     }
 }
 
-@media only screen and (min-width: 601px) and (max-width: 800px)
+@media screen and (max-width: 992px)
 {
 body{
     background-image: linear-gradient(to bottom right, rgb(117, 154, 223), rgb(200, 248, 255));;
@@ -237,7 +237,7 @@ img{
     transform: translateX(30px)
 }
 
-@media only screen and (min-width: 801px)
+@media only screen and (min-width: 992px)
 {
     body {
         background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3B4MTM3MTA1OC1pbWFnZS1rd3Z4enA5OC5qcGc.jpg");
